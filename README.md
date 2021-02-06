@@ -23,5 +23,13 @@ sno|name|college
    - [ ] git add
    - [x] git init
    - [ ] git status
+   
+   #include<stdio.h>
+   #include<conio.h>
+   void main()
+   {
+   printf("print hello world");
+   }
+ 
 
 
