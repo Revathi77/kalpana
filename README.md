@@ -20,8 +20,8 @@ sno|name|college
 
 
    how to initialize github project
--[ ] git add
--[ ] git init
--[ ] git status
+   - [ ] git add
+   - [x] git init
+   - [ ] git status
 
 
