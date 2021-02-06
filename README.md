@@ -10,5 +10,9 @@ _kalpana_
 revs
 =======
 [sacet](http://sacet.ac.in)
+sno|name|college
+---|---|------
+1|revathi|sacet
+2|priya|sacet
 
 
