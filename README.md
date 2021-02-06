@@ -17,5 +17,9 @@ sno|name|college
 <img src=https://images-na.ssl-images-amazon.com/images/I/81A%2BqqYaYFL._SX450_.jpg>
 :smile:
 :camel:
+#how to initialize github project
+-[] git add
+-[x] git init
+-[] git status
 
 
